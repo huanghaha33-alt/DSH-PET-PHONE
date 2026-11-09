@@ -1,0 +1,6 @@
+{
+  "name": "BigFish Pet",
+  "description": "基于 dsh-pet 原版素材的原生 Android 大肥鱼桌宠",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
